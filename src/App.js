@@ -10,7 +10,7 @@ export const StyledButton = styled.button`
   padding: 10px;
   border-radius: 50px;
   border: none;
-  background-color: #ffffff;
+  background: url("/assets/images/1.png");
   padding: 10px;
   font-weight: bold;
   color: #000000;
