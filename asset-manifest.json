@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/apeMint/static/css/main.0722612a.chunk.css",
-    "main.js": "/apeMint/static/js/main.2817c168.chunk.js",
-    "main.js.map": "/apeMint/static/js/main.2817c168.chunk.js.map",
+    "main.js": "/apeMint/static/js/main.4a4bc303.chunk.js",
+    "main.js.map": "/apeMint/static/js/main.4a4bc303.chunk.js.map",
     "runtime-main.js": "/apeMint/static/js/runtime-main.7053213a.js",
     "runtime-main.js.map": "/apeMint/static/js/runtime-main.7053213a.js.map",
     "static/js/2.71169c0c.chunk.js": "/apeMint/static/js/2.71169c0c.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.7053213a.js",
     "static/js/2.71169c0c.chunk.js",
     "static/css/main.0722612a.chunk.css",
-    "static/js/main.2817c168.chunk.js"
+    "static/js/main.4a4bc303.chunk.js"
   ]
 }
