@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/apeMint/static/css/main.389e49ae.chunk.css",
+    "main.css": "/apeMint/static/css/main.73419f7f.chunk.css",
     "main.js": "/apeMint/static/js/main.a56df9a9.chunk.js",
     "main.js.map": "/apeMint/static/js/main.a56df9a9.chunk.js.map",
     "runtime-main.js": "/apeMint/static/js/runtime-main.7053213a.js",
@@ -10,7 +10,7 @@
     "static/js/3.de9aab16.chunk.js": "/apeMint/static/js/3.de9aab16.chunk.js",
     "static/js/3.de9aab16.chunk.js.map": "/apeMint/static/js/3.de9aab16.chunk.js.map",
     "index.html": "/apeMint/index.html",
-    "static/css/main.389e49ae.chunk.css.map": "/apeMint/static/css/main.389e49ae.chunk.css.map",
+    "static/css/main.73419f7f.chunk.css.map": "/apeMint/static/css/main.73419f7f.chunk.css.map",
     "static/js/2.71169c0c.chunk.js.LICENSE.txt": "/apeMint/static/js/2.71169c0c.chunk.js.LICENSE.txt",
     "static/media/1.c16c3a0a.png": "/apeMint/static/media/1.c16c3a0a.png",
     "static/media/reset.css": "/apeMint/static/media/PressStart2P-Regular.f2341734.woff"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.7053213a.js",
     "static/js/2.71169c0c.chunk.js",
-    "static/css/main.389e49ae.chunk.css",
+    "static/css/main.73419f7f.chunk.css",
     "static/js/main.a56df9a9.chunk.js"
   ]
 }
